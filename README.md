@@ -15,7 +15,7 @@ The analysis provided insights into which group (A or B) performed better in ter
 ### Tools and Languages Used:
 - Python
 - Visual Studio Code
-- Pandas, NumPy, Matplotlib, Seaborn for data analysis and visualization
+- Pandas, NumPy, Datetime, Matplotlib, Seaborn for data analysis and visualization, scipy.stats
 
 ### Possible Improvements and Next Steps:
 - Run additional A/B tests with more segmented user groups.
