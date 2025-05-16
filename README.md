@@ -1,13 +1,24 @@
 # A-B-Testing-Results-Analysis
 The notebook where the project was developed can be found in the link above **(Project_Sprint_09_en.ipynb)**. 
 
-This project aimed to increase the revenue of an online store by **prioritizing hypotheses** using two different frameworks: *ICE* (Impact, Confidence, Ease) and *RICE* (Reach, Impact, Confidence, Effort). Given a CSV file containing various hypotheses that could solve identified problems and increase revenue, my task was to apply these frameworks to prioritize the most effective actions.
+### Objective:
+The goal of this project was to increase the revenue of an online store by prioritizing business hypotheses and analyzing the results of an A/B test.
 
-After identifying the most relevant hypotheses, an A/B test was conducted to compare the results of groups A and B. The analysis focused on several aspects to **extract insights** that could help achieve the goal of increasing revenue. The main aspects included:
+### What Was Done:
+1. Business hypotheses were prioritized using two frameworks: ICE (Impact, Confidence, Ease) and RICE (Reach, Impact, Confidence, Effort).
 
-- Cumulative revenue per group
-- Average cumulative order size per group
-- Relative difference in average cumulative order size for group B compared to group A
-- Daily convertion rate for each group (ratio of orders to daily visits)
-- Relative difference in cumulative conversion between groups A and B
-- Compare several aspects using both raw data and filtered data (excluding outliers)
+2. An A/B test was conducted to evaluate the effectiveness of changes based on selected hypotheses.
+
+3. The test results were analyzed using several metrics, including cumulative revenue, average order size, and conversion rates. Both raw and filtered data (excluding outliers) were considered.
+
+### Results:
+The analysis provided insights into which group (A or B) performed better in terms of revenue and conversion. It highlighted the importance of filtering outliers for more accurate conclusions. These findings helped validate or discard certain hypotheses, guiding future business decisions.
+
+### Tools and Languages Used:
+- Python
+- Visual Studio Code
+- Pandas, NumPy, Matplotlib, Seaborn for data analysis and visualization
+
+### Possible Improvements and Next Steps:
+- Run additional A/B tests with more segmented user groups.
+- Automate data preprocessing and analysis pipelines.
