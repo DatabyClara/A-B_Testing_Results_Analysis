@@ -1,14 +1,12 @@
 # A-B-Testing-Results-Analysis
-The notebook where the project was developed can be found in the link above **(Project_Sprint_09_en.ipynb)**. 
+The notebook where the project was developed can be found above **(Project_Sprint_09_en.ipynb)**. 
 
 ### Objective:
 The goal of this project was to increase the revenue of an online store by prioritizing business hypotheses and analyzing the results of an A/B test.
 
 ### What Was Done:
 1. Business hypotheses were prioritized using two frameworks: ICE (Impact, Confidence, Ease) and RICE (Reach, Impact, Confidence, Effort).
-
 2. An A/B test was conducted to evaluate the effectiveness of changes based on selected hypotheses.
-
 3. The test results were analyzed using several metrics, including cumulative revenue, average order size, and conversion rates. Both raw and filtered data (excluding outliers) were considered.
 
 ### Results:
