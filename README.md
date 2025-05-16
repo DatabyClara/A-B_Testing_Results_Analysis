@@ -1,5 +1,5 @@
 # A-B-Testing-Results-Analysis
-The notebook where the project was developed can be found above **(Project_Sprint_09_en.ipynb)**. 
+The *Project_Sprint_09_en.ipynb* notebook provided above contains the complete code for data cleaning and wrangling, creating visualizations, and conducting further analyses. 
 
 ### Objective:
 The goal of this project was to increase the revenue of an online store by prioritizing business hypotheses and analyzing the results of an A/B test.
