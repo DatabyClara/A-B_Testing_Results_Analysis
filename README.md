@@ -13,9 +13,9 @@ The goal of this project was to increase the revenue of an online store by prior
 The analysis provided insights into which group (A or B) performed better in terms of revenue and conversion. It highlighted the importance of filtering outliers for more accurate conclusions. These findings helped validate or discard certain hypotheses, guiding future business decisions.
 
 ### Tools and Languages Used:
-- Python
-- Visual Studio Code
-- Pandas, NumPy, Datetime, Matplotlib, Seaborn for data analysis and visualization, scipy.stats
+- Languages: Python
+- Labraries: Pandas, NumPy, Datetime, Matplotlib, Seaborn for data analysis and visualization, scipy.stats
+- Workspace: Visual Studio Code
 
 ### Possible Improvements and Next Steps:
 - Run additional A/B tests with more segmented user groups.
